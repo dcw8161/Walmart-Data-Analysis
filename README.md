@@ -8,5 +8,5 @@ The main objective of analyzing this data set is to discover the insights of Wal
 
 ## Methods
 1. MySQL to find out the correlations of features
-2. Use Exploratory Data Analysis using Python to see the results in different way.
+2. Use Exploratory Data Analysis using Python to see the results in different way
 3. Tableau Visualization to see the trends and patterns
